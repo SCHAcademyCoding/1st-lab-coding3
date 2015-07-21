@@ -20,9 +20,6 @@ To complete this lab you will have to:
 5. Push that commit to your fork.
 6. Open a Pull Request for your fork.
 
-Your first step is to scroll down to the bottom of the page, which will direct you to the lab on Github. You should see something like this:
-
-![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
 
 ## Forking from Github
 
